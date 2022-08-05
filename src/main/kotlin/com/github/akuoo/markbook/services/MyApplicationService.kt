@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.akuoo.markbook.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.akuoo.markbook.MyBundle
 
 class MyApplicationService {
 
